@@ -8,6 +8,9 @@ CMEOfflineKit is a comprehensive tool designed to simplify the offline installat
 - **Complete Setup**: Includes all necessary packages and dependencies for running CME, ensuring a hassle-free installation process.
 - **Testing Ready**: Provides a ready-to-use environment for malware analysis and testing with CME, even in isolated or secure environments.
 
+## Warning
+Windows Defender may detect some of the packages included in CMEOfflineKit as potentially harmful and could automatically delete them or trigger alerts. Please ensure that you have the necessary legal permissions and are in compliance with all relevant policies before proceeding with the installation.
+
 
 # How to Extract CMEOfflineKit
 
